@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+    <!-- Background -->
+    <rect width="800" height="400" fill="#0F172A"/>
+    
+    <!-- Grid Pattern -->
+    <path d="M0 200 H800 M200 0 V400 M400 0 V400 M600 0 V400" 
+          stroke="#1E293B" 
+          stroke-width="2"/>
+    
+    <!-- Logo Mark -->
+    <g transform="translate(100,100) scale(1.5)">
+        <!-- Main Hexagon -->
+        <path d="M100 20 L170 60 L170 140 L100 180 L30 140 L30 60 Z" 
+              fill="#2563EB"/>
+        
+        <!-- Connection Lines -->
+        <path d="M100 40 L100 160 M45 70 L155 70 M45 130 L155 130" 
+              stroke="#ffffff" 
+              stroke-width="3" 
+              fill="none"/>
+              
+        <!-- Nodes -->
+        <circle cx="100" cy="100" r="8" fill="#4ADE80"/>
+    </g>
+    
+    <!-- Text -->
+    <text x="400" y="200" 
+          font-family="Arial, sans-serif" 
+          font-size="72" 
+          font-weight="bold" 
+          fill="#ffffff" 
+          text-anchor="middle">
+        THE DIGITAL GRID
+    </text>
+    
+    <!-- Tagline -->
+    <text x="400" y="250" 
+          font-family="Arial, sans-serif" 
+          font-size="24" 
+          fill="#94A3B8" 
+          text-anchor="middle">
+        Sustainable IT Solutions
+    </text>
+</svg>
