@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Base Hexagon -->
+  <path d="M16 4 L26 10 L26 22 L16 28 L6 22 L6 10 Z" 
+        fill="#1a2942"/>
+  
+  <!-- Leaf Icon -->
+  <path d="M12 12 L20 12 L16 8 Z" 
+        fill="#4CAF50"/>
+  
+  <!-- Grid Lines -->
+  <path d="M16 12 L16 24 M10 15 L22 15 M10 19 L22 19" 
+        stroke="#4CAF50" 
+        stroke-width="1.5" 
+        fill="none"/>
+</svg>
