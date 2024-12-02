@@ -6,7 +6,7 @@
 
 Sustainable IT solutions for modern businesses. We specialize in refurbished enterprise equipment and comprehensive IT services.
 
-![Hero Banner](https://via.placeholder.com/800x400?text=The+Digital+Grid)
+![Hero Banner](https://raw.githubusercontent.com/The-Digital-Grid/www/d1fa34125aee80bf004bdaf8ab811379e15dbdff/digital-grid-logo-v3.svg)
 
 ## 🚀 Features
 
